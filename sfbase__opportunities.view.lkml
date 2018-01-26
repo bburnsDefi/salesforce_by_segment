@@ -1,5 +1,5 @@
 view: sfbase__opportunities {
-  sql_table_name: salesforce.opportunities ;;
+  sql_table_name: sf.opportunity ;;
 
   dimension: id {
     primary_key: yes

@@ -1,5 +1,5 @@
 view: sfbase__tasks {
-  sql_table_name: salesforce.tasks ;;
+  sql_table_name: sf.task ;;
 
   dimension: account_id {
     type: string

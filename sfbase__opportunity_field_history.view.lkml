@@ -1,5 +1,5 @@
 view: sfbase__opportunity_field_history {
-  sql_table_name: salesforce.opportunity_field_history ;;
+  sql_table_name: sf.opportunity_field_history ;;
 
   dimension: id {
     primary_key: yes

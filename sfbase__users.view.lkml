@@ -1,5 +1,5 @@
 view: sfbase__users {
-  sql_table_name: salesforce.users ;;
+  sql_table_name: sf.user ;;
 
   dimension: id {
     primary_key: yes

@@ -1,5 +1,5 @@
 view: sfbase__campaign_members {
-  sql_table_name: salesforce.campaign_members ;;
+  sql_table_name: sf.campaign_member ;;
 
   dimension: id {
     primary_key: yes

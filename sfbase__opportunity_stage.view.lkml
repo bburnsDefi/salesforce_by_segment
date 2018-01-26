@@ -1,5 +1,5 @@
 view: sfbase__opportunity_stage {
-  sql_table_name: salesforce.opportunity_stage ;;
+  sql_table_name: sf.opportunity_stage ;;
 
   dimension: id {
     primary_key: yes

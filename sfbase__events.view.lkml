@@ -1,5 +1,5 @@
 view: sfbase__events {
-  sql_table_name: salesforce.events ;;
+  sql_table_name: sf.event ;;
 
   dimension: account_id {
     type: string
