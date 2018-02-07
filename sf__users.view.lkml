@@ -7,7 +7,7 @@ view: sf__users {
   }
 }
 
-# Dimension not in salesforce_by_segment schema
+# Dimension not in sf schema
 #  - dimension: created
 #    timeframes: [date, week, month, raw]
 
